@@ -1,0 +1,4 @@
+<!ELEMENT suite (test+)>
+<!ELEMENT test (classes)>
+<!ELEMENT classes (class+)>
+<!ELEMENT class (#PCDATA)>
